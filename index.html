@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Wild Adventure Awaits | Baby Shower Registry</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Patrick+Hand&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --jungle-green: #2D5A27;
+            --leaf-green: #4A7c44;
+            --safari-sand: #F4EAE0;
+            --sunset-orange: #E67E22;
+            --dark-wood: #3E2723;
+        }
+
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: var(--safari-sand);
+            color: var(--dark-wood);
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-image: url('https://www.transparenttextures.com/patterns/paper-fibers.png'); /* Subtle paper texture */
+        }
+
+        .container {
+            max-width: 600px;
+            width: 90%;
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            text-align: center;
+            border: 8px solid var(--jungle-green);
+            margin: 20px;
+        }
+
+        h1 {
+            font-family: 'Patrick Hand', cursive;
+            font-size: 3rem;
+            color: var(--jungle-green);
+            margin-bottom: 10px;
+        }
+
+        p.intro {
+            font-size: 1.1rem;
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+
+        .registry-list {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .registry-link {
+            display: block;
+            text-decoration: none;
+            background-color: var(--leaf-green);
+            color: white;
+            padding: 15px 25px;
+            border-radius: 50px;
+            font-weight: bold;
+            transition: transform 0.2s, background-color 0.2s;
+            font-size: 1.2rem;
+            border-bottom: 4px solid #1b3d18;
+        }
+
+        .registry-link:hover {
+            background-color: var(--sunset-orange);
+            transform: translateY(-3px);
+            border-bottom-color: #ba6214;
+        }
+
+        .icon {
+            margin-right: 10px;
+        }
+
+        .footer {
+            margin-top: 40px;
+            font-size: 0.9rem;
+            color: #777;
+        }
+
+        /* Decorative "leaves" */
+        .leaf-decoration {
+            font-size: 2rem;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="leaf-decoration">🌿 🦁 🦒</div>
+    
+    <h1>A Wild Adventure Awaits!</h1>
+    <p class="intro">
+        We can't wait to welcome our little cub into the pride. 
+        If you'd like to help us get ready for our newest explorer, 
+        we are registered at the following shops:
+    </p>
+
+    <div class="registry-list">
+        <a href="#" class="registry-link" target="_blank">
+            <span class="icon">📦</span> Amazon Registry
+        </a>
+        <a href="#" class="registry-link" target="_blank">
+            <span class="icon">🎯</span> Target Registry
+        </a>
+        <a href="#" class="registry-link" target="_blank">
+            <span class="icon">🐘</span> Babylist
+        </a>
+        <a href="#" class="registry-link" target="_blank">
+            <span class="icon">🧸</span> Pottery Barn Kids
+        </a>
+    </div>
+
+    <p class="footer">
+        Thank you for being part of our village! <br>
+        <strong>The Shower: [Date] @ [Time]</strong>
+    </p>
+    
+    <div class="leaf-decoration">🍃 🦓 🌴</div>
+</div>
+
+</body>
+</html>
