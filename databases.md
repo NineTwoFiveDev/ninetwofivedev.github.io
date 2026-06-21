@@ -1,9 +1,9 @@
 # Artifact 3: Databases
 
 ## Project Links
-* [Original Code Source](/Databases/Old/)
+* [Original Code Source](https://github.com/NineTwoFiveDev/ninetwofivedev.github.io/tree/main/Databases/Old)
 
-* [Enhanced Code Source](/Databases/New/)
+* [Enhanced Code Source](https://github.com/NineTwoFiveDev/ninetwofivedev.github.io/tree/main/Databases/New)
 
 ---
 
