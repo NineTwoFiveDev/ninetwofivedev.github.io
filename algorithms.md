@@ -1,9 +1,9 @@
 # Artifact 2: Algorithms and data structure
 
 ## Project Links
-* [Original Code Source](/Algorithms/Old/)
+* [Original Code Source](https://github.com/NineTwoFiveDev/ninetwofivedev.github.io/tree/main/Algorithms/Old)
 
-* [Enhanced Code Source](/Algorithms/New/)
+* [Enhanced Code Source](https://github.com/NineTwoFiveDev/ninetwofivedev.github.io/tree/main/Algorithms/New)
 
 ---
 

@@ -1,9 +1,9 @@
 # Artifact 1: Software Design and Engineering
 
 ## Project Links
-* [Original Code Source](/Software-Design/Old/)
+* [Original Code Source](https://github.com/NineTwoFiveDev/ninetwofivedev.github.io/tree/main/Software-Design/Old)
 
-* [Enhanced Code Source](/Software-Design/New/)
+* [Enhanced Code Source](https://github.com/NineTwoFiveDev/ninetwofivedev.github.io/tree/main/Software-Design/New)
 
 ---
 
