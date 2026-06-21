@@ -17,7 +17,7 @@ The three artifacts following this assessment pull all these elements together. 
 ## Code Review Video
 Below is my informal code review video walking through the original artifacts and outlining the enhancement plans:
 
-[Watch the Code Review Video on YouTube](YOUTUBE_VIDEO_LINK)
+[Watch the Code Review Video on YouTube](https://youtu.be/2zO-66BxCSQ)
 
 ---
 
