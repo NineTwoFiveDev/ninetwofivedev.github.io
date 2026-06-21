@@ -1,0 +1,15 @@
+﻿  MainCode.cpp
+  SceneManager.cpp
+  ViewManager.cpp
+C:\Users\jacob\OneDrive\Desktop\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(217,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jacob\OneDrive\Desktop\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(432,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jacob\OneDrive\Desktop\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(130,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(131,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(136,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(137,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(140,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(141,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(155,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(252,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\jacob\OneDrive\Desktop\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
