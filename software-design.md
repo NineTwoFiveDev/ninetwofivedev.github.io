@@ -1,9 +1,9 @@
 # Artifact 1: Software Design and Engineering
 
 ## Project Links
-* [Original Code Source]
+* [Original Code Source](/Software-Design/Old/)
 
-* [Enhanced Code Source]
+* [Enhanced Code Source](/Software-Design/New/)
 
 ---
 

@@ -1,9 +1,9 @@
 # Artifact 2: Algorithms and data structure
 
 ## Project Links
-* [Original Code Source](LINK_TO_BEFORE_CODE)
+* [Original Code Source](/Algorithms/Old/)
 
-* [Enhanced Code Source](LINK_TO_AFTER_CODE)
+* [Enhanced Code Source](/Algorithms/New/)
 
 ---
 

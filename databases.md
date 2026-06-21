@@ -1,8 +1,9 @@
 # Artifact 3: Databases
 
 ## Project Links
-* [Original Code Source](LINK_TO_BEFORE_CODE)
-* [Enhanced Code Source](LINK_TO_AFTER_CODE)
+* [Original Code Source](/Databases/Old/)
+
+* [Enhanced Code Source](/Databases/New/)
 
 ---
 
